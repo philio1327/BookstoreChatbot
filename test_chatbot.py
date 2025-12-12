@@ -1,3 +1,6 @@
+
+from chatbot import greet
+
 def test_chatbot():
     # Assuming chatbot has 'greet' function
     greeting = greet()
